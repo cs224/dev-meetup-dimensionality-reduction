@@ -12,3 +12,5 @@ The below notebooks are translations of the above examples to python plus some a
 * [Factor Analysis via R 'Psych'](https://nbviewer.jupyter.org/github/cs224/dev-meetup-dimensionality-reduction/blob/master/factor-analysis.ipynb): Using the standard R 'Psych' package.
 * [Factor Analysis via MCMC sampling](https://nbviewer.jupyter.org/github/cs224/dev-meetup-dimensionality-reduction/blob/master/factor-analysis-via-mcmc-sampling.ipynb): Reimplementing the model in [Stan](http://mc-stan.org/).
 * [Factor Analysis with Automatic Relevance Determination and ADVI](https://nbviewer.jupyter.org/github/cs224/dev-meetup-dimensionality-reduction/blob/master/factor-analysis-with-automatic-relevance-determination-and-advi.ipynb): Adding Automatic Relevance Determination (ARD) to the model.
+* Some geometric aspects of the multi-variate normal distribution as they relate to factor analysis:
+  * [Elliptic Geometry of Multivariate Normal Distribution (Gaussian Distribution)](https://nbviewer.jupyter.org/github/cs224/dev-meetup-dimensionality-reduction/blob/master/factor-analysis-multi-variate-normal-elliptic-geometry.ipynb)
